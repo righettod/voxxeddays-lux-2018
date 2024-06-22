@@ -4,7 +4,7 @@ Demonstration project of the talk **Handle authorization security issues with te
 
 Video to the talk is [here](https://youtu.be/tfmNI8Js7Io).
 
-
+Presentation is into this [file](presentation.pptx).
 
 Execute the Windows shell script `Exec-Demo.bat` to run the demo performed during the talk.
 
